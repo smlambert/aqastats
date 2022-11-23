@@ -1,10 +1,10 @@
 ## Platform: x86-64_windows Version: 8 
 
 ###  system
- Total Execution Time:  8.51  hours
+ Execution time for  201  test targets:  8.51  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | SharedClasses.SCM23.MultiCL_1 | 874887.00  ms|
 | SharedClasses.SCM23.MultiCL_0 | 697224.00  ms|
@@ -212,10 +212,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  4.33  hours
+ Execution time for  105  test targets:  4.33  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_jfr_1 | 1004013.00  ms|
 | hotspot_jre_0 | 961264.00  ms|
@@ -327,10 +327,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.86  hours
+ Execution time for  30  test targets:  0.86  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-movie-lens_0 | 565502.00  ms|
 | renaissance-db-shootout_0 | 401937.00  ms|
@@ -367,10 +367,10 @@
 ---
 
 ###  functional
- Total Execution Time:  4.54  hours
+ Execution time for  856  test targets:  4.54  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | cmdLineTester_vmRuntimeState_0 | 1326529.00  ms|
 | testSCCacheManagement_win_0 | 783697.00  ms|
@@ -1233,10 +1233,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

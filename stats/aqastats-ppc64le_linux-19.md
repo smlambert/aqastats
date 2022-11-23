@@ -1,10 +1,10 @@
 ## Platform: ppc64le_linux Version: 19 
 
 ###  system
- Total Execution Time:  4.16  hours
+ Execution time for  189  test targets:  4.16  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | TestJlmRemoteThreadAuth_1 | 747528.00  ms|
 | TestJlmRemoteThreadAuth_0 | 736200.00  ms|
@@ -200,10 +200,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  12.77  hours
+ Execution time for  138  test targets:  12.77  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_net_0 | 3436966.00  ms|
 | jdk_net_1 | 3429548.00  ms|
@@ -348,10 +348,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.32  hours
+ Execution time for  28  test targets:  0.32  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-fj-kmeans_0 | 345109.00  ms|
 | renaissance-future-genetic_0 | 262592.00  ms|
@@ -386,10 +386,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.13  hours
+ Execution time for  477  test targets:  0.13  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 97124.00  ms|
 | MBCS_Tests_jdbc41_ko_KR_linux_0 | 40822.00  ms|
@@ -873,10 +873,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

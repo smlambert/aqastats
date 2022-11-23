@@ -1,10 +1,10 @@
 ## Platform: aarch64_linux Version: 8 
 
 ###  system
- Total Execution Time:  9.66  hours
+ Execution time for  161  test targets:  9.66  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | SharedClasses.SCM23.MultiThreadMultiCL_1 | 814788.00  ms|
 | SharedClasses.SCM23.MultiThreadMultiCL_0 | 798713.00  ms|
@@ -172,10 +172,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  4.42  hours
+ Execution time for  111  test targets:  4.42  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_security3_0 | 1106885.00  ms|
 | jdk_security3_1 | 1101951.00  ms|
@@ -293,10 +293,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.77  hours
+ Execution time for  30  test targets:  0.77  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-movie-lens_0 | 429878.00  ms|
 | renaissance-als_0 | 319088.00  ms|
@@ -333,10 +333,10 @@
 ---
 
 ###  functional
- Total Execution Time:  7.87  hours
+ Execution time for  855  test targets:  7.87  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | cmdLineTester_vmRuntimeState_0 | 1306729.00  ms|
 | cmdLineTester_decompilationTests_0 | 1265311.00  ms|
@@ -1198,10 +1198,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

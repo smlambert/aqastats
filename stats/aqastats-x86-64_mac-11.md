@@ -1,10 +1,10 @@
 ## Platform: x86-64_mac Version: 11 
 
 ###  system
- Total Execution Time:  5.23  hours
+ Execution time for  232  test targets:  5.23  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MiniMix_aot_5m_0 | 681655.00  ms|
 | TestJlmRemoteThreadAuth_0 | 661378.00  ms|
@@ -150,20 +150,20 @@
 | MathLoadTest_all_1 | 30.00  ms|
 | OAuthTest_0 | 29.00  ms|
 | CLStressCRI_1 | 29.00  ms|
-| MathLoadTest_bigdecimal_2 | 29.00  ms|
 | LambdaLoadTest_Hotspot_1 | 29.00  ms|
-| ClassLoadingTest_1 | 29.00  ms|
+| MathLoadTest_bigdecimal_2 | 29.00  ms|
 | UtilLoadTest_2 | 29.00  ms|
+| ClassLoadingTest_1 | 29.00  ms|
 | MauveSingleInvocLoad_HS_2 | 29.00  ms|
 | MathLoadTest_all_2 | 29.00  ms|
 | LangLoadTest_1 | 29.00  ms|
-| NioLoadTest_2 | 29.00  ms|
 | LambdaLoadTest_Hotspot_2 | 29.00  ms|
+| NioLoadTest_2 | 29.00  ms|
 | CLStressLayers_1 | 28.00  ms|
 | CLStressLayers_0 | 28.00  ms|
 | JdiTest_0 | 28.00  ms|
-| ExplMod_2 | 28.00  ms|
 | CLStressCRI_2 | 28.00  ms|
+| ExplMod_2 | 28.00  ms|
 | CLStressCRI_0 | 28.00  ms|
 | JdiTest_2 | 28.00  ms|
 | ExplMod_1 | 28.00  ms|
@@ -173,8 +173,8 @@
 | LangLoadTest_2 | 28.00  ms|
 | MathLoadTest_bigdecimal_1 | 28.00  ms|
 | MauveSingleThrdLoad_HS_1 | 28.00  ms|
-| ConcurrentLoadTest_1 | 28.00  ms|
 | ConcurrentLoadTest_2 | 28.00  ms|
+| ConcurrentLoadTest_1 | 28.00  ms|
 | MathLoadTest_autosimd_2 | 28.00  ms|
 | JdiTest_1 | 27.00  ms|
 | MauveMultiThrdLoad_2 | 27.00  ms|
@@ -214,8 +214,8 @@
 | TestJlmRemoteThreadNoAuth_2 | 22.00  ms|
 | CLTestImg_2 | 22.00  ms|
 | MauveSingleThrdLoad_HS_5m_2 | 21.00  ms|
-| AutoMod_Impl1_2 | 21.00  ms|
 | Jlink_ReqMod_2 | 21.00  ms|
+| AutoMod_Impl1_2 | 21.00  ms|
 | PatModImg_PlatMod_2 | 21.00  ms|
 | HCRLateAttachWorkload_previewEnabled_2 | 21.00  ms|
 | TestJlmLocal_2 | 21.00  ms|
@@ -226,8 +226,8 @@
 | TestJlmRemoteMemoryNoAuth_2 | 21.00  ms|
 | CpMpJlink_2 | 21.00  ms|
 | PatMod_Unex_2 | 21.00  ms|
-| AutoMod_Impl3_2 | 21.00  ms|
 | SLTest_2 | 21.00  ms|
+| AutoMod_Impl3_2 | 21.00  ms|
 | MauveSingleInvocLoad_HS_5m_2 | 21.00  ms|
 | DBBLoadTest_5m_2 | 21.00  ms|
 | LangLoadTest_5m_2 | 21.00  ms|
@@ -243,10 +243,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  6.13  hours
+ Execution time for  135  test targets:  6.13  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jvm_compiler_0 | 2848184.00  ms|
 | jvm_compiler_1 | 2592369.00  ms|
@@ -388,10 +388,10 @@
 ---
 
 ###  perf
- Total Execution Time:  3.14  hours
+ Execution time for  28  test targets:  3.14  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-als_0 | 8038848.00  ms|
 | renaissance-movie-lens_0 | 2038540.00  ms|
@@ -426,10 +426,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.02  hours
+ Execution time for  387  test targets:  0.02  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 64241.00  ms|
 | SecurityTests_0 | 3939.00  ms|
@@ -823,10 +823,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

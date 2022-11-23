@@ -1,10 +1,10 @@
 ## Platform: x86-64_solaris Version: 8 
 
 ###  system
- Total Execution Time:  2.47  hours
+ Execution time for  82  test targets:  2.47  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MiniMix_aot_5m_0 | 627905.00  ms|
 | TestJlmRemoteThreadAuth_0 | 609035.00  ms|
@@ -93,10 +93,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  4.13  hours
+ Execution time for  102  test targets:  4.13  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_security3_0 | 2862446.00  ms|
 | hotspot_jre_0 | 2257018.00  ms|
@@ -205,10 +205,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.36  hours
+ Execution time for  29  test targets:  0.36  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-movie-lens_0 | 250376.00  ms|
 | renaissance-als_0 | 130839.00  ms|
@@ -244,10 +244,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.03  hours
+ Execution time for  181  test targets:  0.03  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets8_0 | 86455.00  ms|
 | SecurityTests_0 | 2707.00  ms|
@@ -435,10 +435,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

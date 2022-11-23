@@ -1,10 +1,10 @@
 ## Platform: aarch64_mac Version: 19 
 
 ###  system
- Total Execution Time:  4.92  hours
+ Execution time for  189  test targets:  4.92  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MiniMix_aot_5m_0 | 687218.00  ms|
 | TestJlmRemoteThreadAuth_1 | 667068.00  ms|
@@ -200,10 +200,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  3.94  hours
+ Execution time for  138  test targets:  3.94  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_net_0 | 1112993.00  ms|
 | jdk_net_1 | 1109556.00  ms|
@@ -348,10 +348,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.08  hours
+ Execution time for  28  test targets:  0.08  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-future-genetic_0 | 65019.00  ms|
 | renaissance-fj-kmeans_0 | 59001.00  ms|
@@ -386,10 +386,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.02  hours
+ Execution time for  477  test targets:  0.02  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 44909.00  ms|
 | SecurityTests_0 | 2393.00  ms|
@@ -873,10 +873,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

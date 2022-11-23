@@ -1,10 +1,10 @@
 ## Platform: x86-32_windows Version: 11 
 
 ###  system
- Total Execution Time:  1.89  hours
+ Execution time for  190  test targets:  1.89  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | TestJlmRemoteThreadNoAuth_2 | 632375.00  ms|
 | TestJlmRemoteMemoryNoAuth_2 | 621515.00  ms|
@@ -201,10 +201,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  7.20  hours
+ Execution time for  129  test targets:  7.20  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jvm_compiler_2 | 8479699.00  ms|
 | jdk_security3_2 | 3696918.00  ms|
@@ -340,10 +340,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.27  hours
+ Execution time for  28  test targets:  0.27  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-mnemonics_0 | 185548.00  ms|
 | renaissance-philosophers_0 | 177402.00  ms|
@@ -378,10 +378,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.08  hours
+ Execution time for  387  test targets:  0.08  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 116039.00  ms|
 | MBCS_Tests_urlclassloader_ja_windows_0 | 9926.00  ms|
@@ -775,10 +775,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

@@ -1,10 +1,10 @@
 ## Platform: arm_linux Version: 11 
 
 ###  system
- Total Execution Time:  4.17  hours
+ Execution time for  232  test targets:  4.17  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MathLoadTest_bigdecimal_2 | 1996866.00  ms|
 | MauveMultiThrdLoad_2 | 1408259.00  ms|
@@ -243,10 +243,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  3.83  hours
+ Execution time for  129  test targets:  3.83  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_security3_2 | 2003064.00  ms|
 | jvm_compiler_2 | 1735427.00  ms|
@@ -382,10 +382,10 @@
 ---
 
 ###  perf
- Total Execution Time:  1.60  hours
+ Execution time for  28  test targets:  1.60  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-future-genetic_0 | 1060499.00  ms|
 | renaissance-philosophers_0 | 814294.00  ms|
@@ -420,10 +420,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.03  hours
+ Execution time for  387  test targets:  0.03  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 58262.00  ms|
 | MBCS_Tests_codepoint_linux_0 | 5871.00  ms|
@@ -817,10 +817,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

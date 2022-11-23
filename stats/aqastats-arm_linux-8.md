@@ -1,10 +1,10 @@
 ## Platform: arm_linux Version: 8 
 
 ###  system
- Total Execution Time:  1.95  hours
+ Execution time for  82  test targets:  1.95  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | TestJlmRemoteThreadAuth_2 | 865871.00  ms|
 | TestJlmRemoteThreadNoAuth_2 | 710731.00  ms|
@@ -93,10 +93,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  8.86  hours
+ Execution time for  102  test targets:  8.86  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_util_2 | 22529082.00  ms|
 | hotspot_jre_2 | 1532616.00  ms|
@@ -205,10 +205,10 @@
 ---
 
 ###  perf
- Total Execution Time:  2.36  hours
+ Execution time for  29  test targets:  2.36  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-future-genetic_0 | 1495382.00  ms|
 | renaissance-philosophers_0 | 1395512.00  ms|
@@ -244,10 +244,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.17  hours
+ Execution time for  177  test targets:  0.17  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets8_0 | 514136.00  ms|
 | MBCS_Tests_annotation_zh_TW_linux_0 | 5099.00  ms|
@@ -431,10 +431,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

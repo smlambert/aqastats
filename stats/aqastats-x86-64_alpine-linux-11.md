@@ -1,10 +1,10 @@
 ## Platform: x86-64_alpine-linux Version: 11 
 
 ###  system
- Total Execution Time:  5.27  hours
+ Execution time for  190  test targets:  5.27  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | TestJlmRemoteThreadAuth_1 | 768857.00  ms|
 | TestJlmRemoteThreadAuth_0 | 765337.00  ms|
@@ -201,10 +201,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  9.01  hours
+ Execution time for  129  test targets:  9.01  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jvm_compiler_1 | 4462015.00  ms|
 | jvm_compiler_0 | 3676358.00  ms|
@@ -340,10 +340,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.64  hours
+ Execution time for  28  test targets:  0.64  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-future-genetic_0 | 401045.00  ms|
 | IdleMicrobenchmark_HS_0 | 391445.00  ms|
@@ -378,10 +378,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.02  hours
+ Execution time for  387  test targets:  0.02  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 62345.00  ms|
 | MBCS_Tests_codepoint_linux_0 | 4709.00  ms|
@@ -775,10 +775,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

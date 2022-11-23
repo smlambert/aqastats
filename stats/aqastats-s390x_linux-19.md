@@ -1,10 +1,10 @@
 ## Platform: s390x_linux Version: 19 
 
 ###  system
- Total Execution Time:  4.28  hours
+ Execution time for  189  test targets:  4.28  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | TestJlmRemoteThreadAuth_1 | 699622.00  ms|
 | TestJlmRemoteThreadAuth_0 | 682443.00  ms|
@@ -200,10 +200,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  15.28  hours
+ Execution time for  138  test targets:  15.28  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_net_1 | 5067979.00  ms|
 | jdk_net_0 | 4105501.00  ms|
@@ -348,10 +348,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.27  hours
+ Execution time for  28  test targets:  0.27  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-future-genetic_0 | 367314.00  ms|
 | renaissance-fj-kmeans_0 | 348331.00  ms|
@@ -386,10 +386,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.05  hours
+ Execution time for  477  test targets:  0.05  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 41158.00  ms|
 | MBCS_Tests_annotation_zh_CN_linux_0 | 14605.00  ms|
@@ -873,10 +873,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

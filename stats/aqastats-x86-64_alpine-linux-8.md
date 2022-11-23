@@ -1,10 +1,10 @@
 ## Platform: x86-64_alpine-linux Version: 8 
 
 ###  system
- Total Execution Time:  4.45  hours
+ Execution time for  82  test targets:  4.45  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | TestJlmRemoteThreadAuth_1 | 762718.00  ms|
 | TestJlmRemoteThreadAuth_0 | 760798.00  ms|
@@ -93,10 +93,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  3.75  hours
+ Execution time for  102  test targets:  3.75  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_security3_1 | 1156736.00  ms|
 | jdk_security3_0 | 814726.00  ms|
@@ -184,31 +184,31 @@
 | jdk_beans_2 | 11.00  ms|
 | jdk_lang_2 | 10.00  ms|
 | jdk_util_2 | 10.00  ms|
+| jdk_security4_2 | 10.00  ms|
 | langtools_custom_2 | 10.00  ms|
 | jdk_rmi_2 | 10.00  ms|
 | hotspot_gc_2 | 10.00  ms|
 | hotspot_serviceability_2 | 10.00  ms|
-| jdk_security4_2 | 10.00  ms|
 | jdk_jdi_jdk8_2 | 10.00  ms|
-| jdk_instrument_2 | 10.00  ms|
 | jdk_security3_2 | 10.00  ms|
+| jdk_instrument_2 | 10.00  ms|
 | jdk_management_2 | 10.00  ms|
 | jdk_jmx_2 | 10.00  ms|
 | jdk_net_2 | 10.00  ms|
 | jdk_time_2 | 10.00  ms|
 | hotspot_compiler_2 | 10.00  ms|
-| jdk_nio_2 | 10.00  ms|
 | jdk_security2_2 | 10.00  ms|
+| jdk_nio_2 | 10.00  ms|
 | jdk_io_2 | 9.00  ms|
 </details>
 
 ---
 
 ###  perf
- Total Execution Time:  0.77  hours
+ Execution time for  29  test targets:  0.77  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-movie-lens_0 | 942800.00  ms|
 | IdleMicrobenchmark_HS_0 | 393771.00  ms|
@@ -244,10 +244,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.02  hours
+ Execution time for  177  test targets:  0.02  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets8_0 | 57022.00  ms|
 | SecurityTests_0 | 2164.00  ms|
@@ -431,10 +431,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 

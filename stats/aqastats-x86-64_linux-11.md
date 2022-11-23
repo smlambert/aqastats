@@ -1,10 +1,10 @@
 ## Platform: x86-64_linux Version: 11 
 
 ###  system
- Total Execution Time:  5.54  hours
+ Execution time for  232  test targets:  5.54  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | TestJlmRemoteThreadAuth_0 | 743278.00  ms|
 | TestJlmRemoteThreadAuth_1 | 724655.00  ms|
@@ -243,10 +243,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  7.14  hours
+ Execution time for  137  test targets:  7.14  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jvm_compiler_0 | 3795132.00  ms|
 | jvm_compiler_1 | 3336881.00  ms|
@@ -390,10 +390,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.75  hours
+ Execution time for  28  test targets:  0.75  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | IdleMicrobenchmark_HS_0 | 394112.00  ms|
 | renaissance-movie-lens_0 | 392356.00  ms|
@@ -428,10 +428,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.04  hours
+ Execution time for  387  test targets:  0.04  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 69271.00  ms|
 | MBCS_Tests_codepoint_linux_0 | 5066.00  ms|
@@ -825,10 +825,10 @@
 ---
 
 ###  external
- Total Execution Time:  1.43  hours
+ Execution time for  6  test targets:  1.43  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | openliberty_microprofile_tck_0 | 3329294.00  ms|
 | quarkus_quickstarts_test_0 | 1819815.00  ms|

@@ -1,10 +1,10 @@
 ## Platform: ppc64_aix Version: 8 
 
 ###  system
- Total Execution Time:  4.66  hours
+ Execution time for  122  test targets:  4.66  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MiniMix_aot_5m_0 | 697732.00  ms|
 | TestJlmRemoteThreadAuth_0 | 692409.00  ms|
@@ -133,10 +133,10 @@
 ---
 
 ###  openjdk
- Total Execution Time:  11.05  hours
+ Execution time for  105  test targets:  11.05  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | jdk_security3_0 | 3180911.00  ms|
 | jdk_security3_1 | 2828862.00  ms|
@@ -248,10 +248,10 @@
 ---
 
 ###  perf
- Total Execution Time:  0.77  hours
+ Execution time for  29  test targets:  0.77  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | renaissance-movie-lens_0 | 643056.00  ms|
 | renaissance-philosophers_0 | 301260.00  ms|
@@ -287,10 +287,10 @@
 ---
 
 ###  functional
- Total Execution Time:  0.11  hours
+ Execution time for  182  test targets:  0.11  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 | MBCS_Tests_charsets_0 | 157225.00  ms|
 | MBCS_Tests_charsets8_0 | 137924.00  ms|
@@ -479,10 +479,10 @@
 ---
 
 ###  external
- Total Execution Time:  0.00  hours
+ Execution time for  0  test targets:  0.00  hours
 <details><summary>Test target details</summary>
 
-| Test Name | Time |
+| Test Target Name | Time |
 | --- | --- |
 </details>
 
