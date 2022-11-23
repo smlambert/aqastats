@@ -10,7 +10,7 @@ if [ -z $PLATFORM ]; then
 fi
 
 mkdir -p data 
-OUT=aqastats-${PLATFORM}-${VERSION}.md
+OUT=stats/aqastats-${PLATFORM}-${VERSION}.md
 echo "## Platform: ${PLATFORM} Version: ${VERSION} " > $OUT
 for group in system openjdk perf functional external
 do
