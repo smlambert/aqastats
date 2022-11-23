@@ -1,4 +1,6 @@
 ## Platform: x86-32_windows Version: 8 
+### Total time across all groups 9.97 hrs 
+---
 
 ###  system
  Execution time for  201  test targets:  4.39  hours
@@ -101,8 +103,8 @@
 | MauveSingleInvocLoad_HS_5m_0 | 170.00  ms|
 | SharedClasses.SCM01.MultiCL_1 | 169.00  ms|
 | NioLoadTest_5m_1 | 168.00  ms|
-| TestIBMJlmRemoteMemoryNoAuth_SE80_Linux_1 | 168.00  ms|
 | TestIBMJlmRemoteMemoryAuth_SE80_0 | 168.00  ms|
+| TestIBMJlmRemoteMemoryNoAuth_SE80_Linux_1 | 168.00  ms|
 | SharedClasses.SCM23.MultiCL_1 | 168.00  ms|
 | TestIBMJlmRemoteClassNoAuth_SE80_Linux_1 | 167.00  ms|
 | ParallelStreamsLoadTest_CS_0 | 166.00  ms|
@@ -110,8 +112,8 @@
 | TestIBMJlmRemoteClassAuth_SE80_Linux_1 | 165.00  ms|
 | TestIBMJlmRemoteClassAuth_SE80_1 | 165.00  ms|
 | TestIBMJlmRemoteMemoryAuth_SE80_1 | 164.00  ms|
-| LambdaLoadTest_J9_5m_1 | 164.00  ms|
 | TestIBMJlmLocal_1 | 164.00  ms|
+| LambdaLoadTest_J9_5m_1 | 164.00  ms|
 | DaaLoadTest_daa2_5m_1 | 163.00  ms|
 | DaaLoadTest_daa3_CS_5m_0 | 163.00  ms|
 | TestIBMJlmRemoteMemoryAuth_SE80_Linux_0 | 162.00  ms|
@@ -121,15 +123,15 @@
 | DaaLoadTest_daa1_5m_1 | 160.00  ms|
 | DaaLoadTest_daa3_5m_1 | 160.00  ms|
 | LockingLoadTest_1 | 160.00  ms|
-| TestIBMJlmRemoteClassNoAuth_SE80_Linux_0 | 160.00  ms|
 | SharedClasses.SCM23.SingleCL_1 | 160.00  ms|
+| TestIBMJlmRemoteClassNoAuth_SE80_Linux_0 | 160.00  ms|
 | SharedClasses.SCM01.MultiThreadMultiCL_1 | 159.00  ms|
 | LambdaLoadTest_CS_5m_0 | 158.00  ms|
 | TestIBMJlmRemoteClassAuth_SE80_0 | 158.00  ms|
 | SharedClasses.SCM01.MultiThread_1 | 157.00  ms|
 | TestIBMJlmRemoteClassAuth_SE80_Linux_0 | 157.00  ms|
-| SharedClassesAPI_1 | 156.00  ms|
 | TestIBMJlmRemoteMemoryAuth_SE80_Linux_1 | 156.00  ms|
+| SharedClassesAPI_1 | 156.00  ms|
 | ClassLoadingTest_5m_0 | 156.00  ms|
 | SharedClassesWorkload_1 | 155.00  ms|
 | SC_Softmx_Increase_1 | 153.00  ms|
@@ -149,8 +151,8 @@
 | MathLoadTest_all_CS_5m_0 | 139.00  ms|
 | TestJlmRemoteClassAuth_1 | 139.00  ms|
 | TestJlmRemoteNotifierProxyAuth_0 | 138.00  ms|
-| TestJlmRemoteNotifierProxyAuth_1 | 137.00  ms|
 | TestJlmRemoteClassAuth_2 | 137.00  ms|
+| TestJlmRemoteNotifierProxyAuth_1 | 137.00  ms|
 | TestJlmRemoteThreadNoAuth_0 | 136.00  ms|
 | TestJlmRemoteClassAuth_0 | 136.00  ms|
 | TestJlmRemoteThreadAuth_2 | 136.00  ms|
@@ -184,27 +186,27 @@
 | LambdaLoadTest_HS_5m_0 | 118.00  ms|
 | MathLoadTest_all_0 | 118.00  ms|
 | ParallelStreamsLoadTest_HS_0 | 116.00  ms|
-| ConcurrentLoadTest_0 | 116.00  ms|
 | LangLoadTest_0 | 116.00  ms|
+| ConcurrentLoadTest_0 | 116.00  ms|
 | DirectByteBufferLoadTest_1 | 114.00  ms|
-| UtilLoadTest_0 | 110.00  ms|
 | MauveSingleInvocLoad_HS_0 | 110.00  ms|
+| UtilLoadTest_0 | 110.00  ms|
 | MathLoadTest_autosimd_0 | 107.00  ms|
 | ConcurrentLoadTest_1 | 105.00  ms|
 | MathLoadTest_all_1 | 104.00  ms|
 | MauveSingleInvocLoad_HS_1 | 103.00  ms|
-| MathLoadTest_bigdecimal_1 | 102.00  ms|
 | MauveMultiThrdLoad_1 | 102.00  ms|
 | DirectByteBufferLoadTest_0 | 102.00  ms|
-| NioLoadTest_1 | 100.00  ms|
+| MathLoadTest_bigdecimal_1 | 102.00  ms|
 | LangLoadTest_1 | 100.00  ms|
-| LambdaLoadTest_Hotspot_0 | 99.00  ms|
+| NioLoadTest_1 | 100.00  ms|
 | MathLoadTest_autosimd_1 | 99.00  ms|
+| LambdaLoadTest_Hotspot_0 | 99.00  ms|
 | LambdaLoadTest_Hotspot_1 | 98.00  ms|
 | MauveSingleThrdLoad_HS_1 | 97.00  ms|
+| ClassLoadingTest_0 | 94.00  ms|
 | MathLoadTest_bigdecimal_0 | 94.00  ms|
 | ClassLoadingTest_1 | 94.00  ms|
-| ClassLoadingTest_0 | 94.00  ms|
 | NioLoadTest_0 | 93.00  ms|
 | MauveSingleThrdLoad_HS_0 | 89.00  ms|
 </details>
@@ -305,15 +307,15 @@
 | hotspot_serviceability_0 | 116.00  ms|
 | hotspot_gc_0 | 115.00  ms|
 | jdk_math_0 | 115.00  ms|
+| jdk_custom_1 | 114.00  ms|
 | jdk_util_1 | 114.00  ms|
 | jdk_util_0 | 114.00  ms|
-| jdk_custom_1 | 114.00  ms|
 | jdk_lang_0 | 113.00  ms|
 | jdk_nio_1 | 112.00  ms|
 | jdk_math_1 | 112.00  ms|
 | hotspot_compiler_0 | 112.00  ms|
-| hotspot_jre_1 | 112.00  ms|
 | jdk_io_0 | 112.00  ms|
+| hotspot_jre_1 | 112.00  ms|
 | hotspot_gc_1 | 110.00  ms|
 | hotspot_compiler_1 | 110.00  ms|
 | hotspot_serviceability_1 | 109.00  ms|
@@ -1161,8 +1163,8 @@
 | hanoiTestTM_HEAVY_0 | 101.00  ms|
 | cmdLineTester_decompilationTests_1 | 101.00  ms|
 | cmdLineTester_GCRegressionTests_1 | 101.00  ms|
-| cmdLineTester_GCCheck_2 | 101.00  ms|
 | jit_jitt_XCEEHDLR_1 | 101.00  ms|
+| cmdLineTester_GCCheck_2 | 101.00  ms|
 | cmdLineTester_SCCommandLineOptionTests_0 | 101.00  ms|
 | cmdLineTester_GCRegressionTests_RISCV_0 | 100.00  ms|
 | cmdLineTester_jvmtitests_debug_7 | 100.00  ms|
