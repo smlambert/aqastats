@@ -2,6 +2,7 @@
 Gather and produce metrics related to the AQAvit project
 
 Instructions:
+Install prereq tools, requires `jq` - https://stedolan.github.io/jq/download/
 
 Clone the repo:
 git clone https://github.com/smlambert/aqastats.git
